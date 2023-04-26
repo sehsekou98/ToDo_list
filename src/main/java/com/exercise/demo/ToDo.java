@@ -1,10 +1,11 @@
-package com.eerexise.demo;
+package com.exercise.demo;
 
 import com.sun.istack.internal.NotNull;
 import lombok.Data;
 
 import java.time.LocalDateTime;
 import java.util.UUID;
+
 
 @Data
 public class ToDo {

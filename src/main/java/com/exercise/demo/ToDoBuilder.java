@@ -1,4 +1,4 @@
-package com.eerexise.demo;
+package com.exercise.demo;
 
 public class ToDoBuilder {
     private  static ToDoBuilder instance = new ToDoBuilder();
